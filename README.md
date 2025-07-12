@@ -6,6 +6,8 @@ A classic **Hangman** word-guessing game built using **HTML**, **CSS**, and **Ja
 
 ![Hangman Screenshot](hangman6.png)
 
+[⬇️ Download ZIP](https://github.com/Somilgupta07/hangman-game/archive/refs/heads/main.zip)
+
 ## 🚀 Features
 
 - Clean and responsive UI
