@@ -24,10 +24,12 @@ A classic **Hangman** word-guessing game built using **HTML**, **CSS**, and **Ja
 
 ## 📂 Folder Structure
 
-hangman-game/
-├── index.html # Main HTML file
-├── style.css # Styling for the game
-├── script.js # JavaScript game logic
-├── words.js # Optional: Word bank file
-├── screenshot.png # Game preview image (for README)
-└── README.md # Project documentation
+hangman/
+
+- images
+- sounds
+- index.html
+- style.css
+- script.js
+- hangman6.png
+- README.md
